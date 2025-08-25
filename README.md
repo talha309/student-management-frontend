@@ -5,6 +5,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+### Frontend Features
+- ✅ Modern, responsive design
+- ✅ Glassmorphism UI effects
+- ✅ Real-time form validation
+- ✅ Loading states and animations
+- ✅ Error and success message handling
+- ✅ Mobile-friendly layout
+- ✅ Beautiful gradient background
+
+## Screenshots
+<img width="507" height="510" alt="Screenshot_4" src="https://github.com/user-attachments/assets/ad7248e6-f444-42fd-b191-ebe68d88815b" />
 
 ### `npm start`
 
